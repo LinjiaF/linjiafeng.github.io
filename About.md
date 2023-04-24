@@ -7,7 +7,7 @@ permalink: /about/
 Hi, I'm Linjia Feng.
 
 
-## Academic Project
+## Academic Projects
 ### Project 1
 asdfghjbvbnm
 
