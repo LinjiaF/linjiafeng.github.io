@@ -21,7 +21,7 @@
 title: Linjia Feng
 email: lf433@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Physics meets Machine Learning
+  
 # I comment the two lines below out, see https://stackoverflow.com/a/64778847
 #baseurl: "" # the subpath of your site, e.g. /blog  
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
