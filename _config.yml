@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # I comment the two lines below out, see https://stackoverflow.com/a/64778847
 #baseurl: "" # the subpath of your site, e.g. /blog  
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: linjia-feng-71a0ab165
 
 
 # Build settings
