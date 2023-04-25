@@ -8,3 +8,5 @@ layout: default
 # Welcome!
 I'm Linjia Feng, a Master of Engineering in Financial Engineering student at Cornell University.
 
+
+- find out more [About Me](https://linjiaf.github.io/site/about/)
