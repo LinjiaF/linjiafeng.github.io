@@ -36,7 +36,7 @@ The relationship between inflation rate and unemployment rate or housing price g
 This project evaluated future projections of precipitation for 2069-2099 from 31 General Circulation Models under two greenhouse gas emissions scenarios in Champaign County. I analyzed rainfall patterns through cleaning and visualizing data using Python, then fit fixed, random and mixed effects models to relative change of precipitation per month through R. Lastly, I compared different models for each month by performing model diagnostics and goodness of fit assessment (p-value, AIC and Lack of Fit).
 
 
-### Academic Experience
+### Teaching Experience
 **Teaching Assistant for ECON 475: Economic Forecasting, UIUC, Fall 2021** \
 Held office hours; facilitated project implementation using Python; proofread homeworks and exams
 
