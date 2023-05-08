@@ -28,7 +28,7 @@ This research project quantifies the economic impact of Covid-19 by studying the
 
 
 
-**Quantifying Climate Change Uncertainty** \
+**Quantifying Climate Change Uncertainty in Champaign County** \
 **Honors Independent Study, Department of Statistics, UIUC** \
 This project evaluated future projections of precipitation for 2069-2099 from 31 General Circulation Models under two greenhouse gas emissions scenarios in Champaign County. I analyzed rainfall patterns through cleaning and visualizing data using Python, then fit fixed, random and mixed effects models to relative change of precipitation per month through R. Lastly, I compared different models for each month by performing model diagnostics and goodness of fit assessment (p-value, AIC and Lack of Fit).
 
