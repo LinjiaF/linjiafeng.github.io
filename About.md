@@ -24,8 +24,7 @@ Working Paper: “Using machine learning to overcome mosquito collections missin
 
 **Quantifying Economic Impact of Covid-19** \
 **Supervised by Prof. Shihan Xie (Economics, UIUC)** \
-This research project quantifies the economic impact of Covid-19 by studying the change of employment growth and housing price growth before and after the pandemic. I have explored topics like: How factors like different income groups and work-from-home difficulty index impact employment?; Examines factors such as population density that may affect housing price growth; The relationship between inflation rate and unemployment rate or housing price growth in recent decades before the pandemic with a fixed-effect model using a panel data.
-
+This research project quantifies the economic impact of Covid-19 by studying the change of employment growth and housing price growth before and after the pandemic. I have explored topics like: How factors like different income groups and work-from-home difficulty index impact employment?  Whether factors such as population density could affect housing price growth? Also, is there any relationship between inflation rate and unemployment rate or housing price growth in recent decades?
 
 
 **Quantifying Climate Change Uncertainty in Champaign County** \
